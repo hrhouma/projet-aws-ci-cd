@@ -223,9 +223,7 @@ Amazon Elastic Container Registry (ECR) est un service de registre Docker entiè
 
 #### Déploiement Continu avec ECR et ECS
 
-1. **
-
-Pipeline CI/CD** :
+1. **Pipeline CI/CD** :
    - Configurez un pipeline CI/CD avec AWS CodePipeline et ECS pour automatiser le déploiement continu des microservices conteneurisés.
 
 #### Gestion des Images dans un Environnement Multirégional
